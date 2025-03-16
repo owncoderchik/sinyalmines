@@ -86,7 +86,7 @@ body {
     border: 1px solid rgba(255, 255, 255, 0.1);
     width: 100%;
     max-width: 220px;
-    box-shadow: 0 0 0px 2px rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0 5px 6px rgba(255, 0, 0, 0.5);
 }
 
 .game-card:hover {
@@ -110,7 +110,7 @@ body {
 }
 
 .play-button {
-    background: #ca96ff;
+    background: #fe8080;
     color: white;
     border: none;
     width: 100%;
@@ -127,7 +127,7 @@ body {
 }
 
 .play-button:hover {
-    background: #8413fd;
+    background: #ff001385;
     box-shadow: 0 0 15px rgba(76, 175, 80, 0.4);
 }
 
